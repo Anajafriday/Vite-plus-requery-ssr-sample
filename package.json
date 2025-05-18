@@ -1,6 +1,9 @@
 {
   "name": "ssr-sample",
   "private": true,
+  "author": {
+    "name": "friday anaja"
+  },
   "version": "0.0.0",
   "type": "module",
   "scripts": {
