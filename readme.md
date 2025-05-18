@@ -8,6 +8,8 @@ This project is a server-side rendered (SSR) React application built with:
 - 🔁 [React Query](https://tanstack.com/query) — data fetching & caching
 - 🧠 [React Helmet Async](https://github.com/staylor/react-helmet-async) — SSR-friendly `<head>` management
 
+- [Tailwindcss](https://tailwindcss.com) — Basic Styling
+
 ---
 
 ## 📁 Folder Structure
